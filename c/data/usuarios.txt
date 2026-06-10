@@ -1,0 +1,4 @@
+3
+admin1 1234 1 1
+ventas1 1234 2 1
+ventas4 4444 2 1
